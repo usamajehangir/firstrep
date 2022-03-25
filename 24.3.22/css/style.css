@@ -1,0 +1,30 @@
+#styling {
+    color: lightgreen
+}
+
+.styling {
+    background-color: beige;
+    font-style: italic;
+    font-size: 25px;
+    font-family: Arial;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.hover:hover {
+    background-color: yellow;
+}
+
+.active:active {
+    background-color: hotpink;
+}
+
+.visited:visited {
+    background-color: black;
+}
+
+.unvisited:link {
+    background-color: blue;
+}
